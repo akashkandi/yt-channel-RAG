@@ -8,8 +8,7 @@ Chat with any YouTube channel or playlist using RAG. Paste a URL, ask questions,
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?logo=openai&logoColor=white)](https://openai.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docker.com)
 
-**[Live Demo](https://your-url.onrender.com)** · **[API Docs](https://your-url.onrender.com/docs)**
-
+**[Live Demo](https://yt-channel-rag.onrender.com)** . **[API Docs](https://yt-channel-rag-backend.onrender.com/docs)**
 ---
 
 ## Features
