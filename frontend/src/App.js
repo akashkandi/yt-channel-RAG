@@ -3,7 +3,7 @@ import axios from "axios";
 import ReactMarkdown from "react-markdown";
 import "./App.css";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://yt-channel-rag-backend.onrender.com";
 
 const DEFAULT_QUESTIONS = [
   "What is the main topic covered?",
